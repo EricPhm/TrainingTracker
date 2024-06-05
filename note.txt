@@ -1,0 +1,24 @@
+Create vite
+    npm init vite
+
+then: 
+    npm install
+
+to run:
+    npm run dev
+
+===================================================================
+install react router dom
+    npm i react-router
+
+- link vs <a> tag 
+    link does not refresh the whole html - client side routing
+    <a> tag does
+
+redux
+    npm install redux react-redux @types/react-redux redux-thunk
+
+useState() - update state dynamically (in input box - when type sth and want it to remain as input)
+- this is why need to update the state for every change
+
+
